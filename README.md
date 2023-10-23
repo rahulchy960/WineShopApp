@@ -1,5 +1,7 @@
+##University Project 
+
 # JavaWineShopApp
-The Wine Shop Inventory Management System is a Java program that allows the management of alcoholic beverage items within a wine shop. It provides functionality to add new items, track the quantity and types of alcoholic beverages, sell items, count the total number of items in stock, and display the current inventory.
+The Wine Shop Inventory Management System is a program that allows the management of alcoholic beverage items within a wine shop. It provides functionality to add new items, track the quantity and types of alcoholic beverages, sell items, count the total number of items in stock, and display the current inventory.
 
 ## Features
 1. **Add Items**: This feature allows the user to add new alcoholic beverage items to the inventory. The user can specify the item's name, type of alcohol (Whiskey, Wine, Gin, Vodka, Rum, or Beer), price, quantity, and subtype (if applicable).
